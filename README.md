@@ -1,4 +1,4 @@
-# -Cross-Market-Analysis# 🚀 Cross Market Analysis Dashboard
+# 🚀 Cross Market Analysis Dashboard
 
 An end-to-end **Data Analytics & Business Intelligence project** that integrates **Cryptocurrency, Oil, and Stock Market data** into a unified dashboard using **Python, SQL, and Streamlit**.
 
