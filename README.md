@@ -104,25 +104,7 @@ GROUP BY ticker, month;
 
 ---
 
-## 🚀 How to Run the Project
 
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/cross-market-analysis-dashboard.git
-cd cross-market-analysis-dashboard
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Load Data
-
-```bash
-python load_data.py
 ```
 
 ### 4️⃣ Run Dashboard
@@ -159,7 +141,3 @@ streamlit run app.py
 **Udhayakumar**
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
